@@ -1,4 +1,4 @@
-package com.github.akarnokd.msmr;
+package com.github.akarnokd.rd;
 
 import static org.junit.Assert.*;
 

@@ -1,4 +1,4 @@
 /**
  * Contains the data model classes.
  */
-package com.github.akarnokd.scp.model;
+package com.github.akarnokd.rd.model;
